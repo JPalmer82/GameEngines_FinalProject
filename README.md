@@ -1,0 +1,3 @@
+# Game Engines Final Project
+
+This is the final project I made in Unity for my freshman year programming class, Game Engines. This is a Third Person Over-The-Shoulder Sci-Fi Shooter inspired by the Ratchet & Clank series. The goal is to explore the alien world in search of the precious crystals being horded by the already invading aliens that you must fight, alongside the local lifeforms that inhabit this planet, while collecting weapons and ammo to help you on your journey.
